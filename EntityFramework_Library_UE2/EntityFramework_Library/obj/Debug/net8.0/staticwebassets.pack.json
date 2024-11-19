@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\simsi\\Desktop\\EntityFramework_Library\\EntityFramework_Library\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EntityFramework_Library.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EntityFramework_Library.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\simsi\\Desktop\\EntityFramework_Library\\EntityFramework_Library\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\simsi\\Desktop\\EntityFramework_Library\\EntityFramework_Library\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\simsi\\Desktop\\EntityFramework_Library\\EntityFramework_Library\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\simsi\\Desktop\\EntityFramework_Library\\EntityFramework_Library\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EntityFramework_Library.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EntityFramework_Library.props",
+      "PackagePath": "build\\EntityFramework_Library.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EntityFramework_Library.props",
+      "PackagePath": "buildMultiTargeting\\EntityFramework_Library.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EntityFramework_Library.props",
+      "PackagePath": "buildTransitive\\EntityFramework_Library.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
