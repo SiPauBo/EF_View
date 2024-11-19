@@ -18,6 +18,7 @@ public class Item
 
     public BookDetails? BookDetails;
 
+    
     public int AuthorId { get; set; }
     public Author? BookAuthor;
 
