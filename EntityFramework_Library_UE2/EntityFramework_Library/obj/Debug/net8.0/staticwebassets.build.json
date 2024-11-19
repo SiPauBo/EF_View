@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "duKcrYF4+aURQHF4Nb5PcrIV3B3bEIHVOK1CBhguyHk=",
+  "Hash": "IfigJikZ+x3nbXpJnVafypBTBFvvFb3eeYcmL3lhRFs=",
   "Source": "EntityFramework_Library",
   "BasePath": "_content/EntityFramework_Library",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "EntityFramework_Library\\wwwroot",
       "Source": "EntityFramework_Library",
-      "ContentRoot": "C:\\Users\\simsi\\Desktop\\EntityFramework_Library\\EntityFramework_Library\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ninag\\OneDrive - HTL Krems\\4BHITM\\SEW\\EF_View\\EntityFramework_Library_UE2\\EntityFramework_Library\\wwwroot\\",
       "BasePath": "_content/EntityFramework_Library",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\simsi\\Desktop\\EntityFramework_Library\\EntityFramework_Library\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EntityFramework_Library.styles.css",
+      "Identity": "C:\\Users\\ninag\\OneDrive - HTL Krems\\4BHITM\\SEW\\EF_View\\EntityFramework_Library_UE2\\EntityFramework_Library\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EntityFramework_Library.styles.css",
       "SourceId": "EntityFramework_Library",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\simsi\\Desktop\\EntityFramework_Library\\EntityFramework_Library\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\ninag\\OneDrive - HTL Krems\\4BHITM\\SEW\\EF_View\\EntityFramework_Library_UE2\\EntityFramework_Library\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/EntityFramework_Library",
       "RelativePath": "EntityFramework_Library.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\simsi\\Desktop\\EntityFramework_Library\\EntityFramework_Library\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EntityFramework_Library.styles.css"
+      "OriginalItemSpec": "C:\\Users\\ninag\\OneDrive - HTL Krems\\4BHITM\\SEW\\EF_View\\EntityFramework_Library_UE2\\EntityFramework_Library\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EntityFramework_Library.styles.css"
     },
     {
-      "Identity": "C:\\Users\\simsi\\Desktop\\EntityFramework_Library\\EntityFramework_Library\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EntityFramework_Library.bundle.scp.css",
+      "Identity": "C:\\Users\\ninag\\OneDrive - HTL Krems\\4BHITM\\SEW\\EF_View\\EntityFramework_Library_UE2\\EntityFramework_Library\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EntityFramework_Library.bundle.scp.css",
       "SourceId": "EntityFramework_Library",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\simsi\\Desktop\\EntityFramework_Library\\EntityFramework_Library\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\ninag\\OneDrive - HTL Krems\\4BHITM\\SEW\\EF_View\\EntityFramework_Library_UE2\\EntityFramework_Library\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/EntityFramework_Library",
       "RelativePath": "EntityFramework_Library.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\simsi\\Desktop\\EntityFramework_Library\\EntityFramework_Library\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EntityFramework_Library.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\ninag\\OneDrive - HTL Krems\\4BHITM\\SEW\\EF_View\\EntityFramework_Library_UE2\\EntityFramework_Library\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EntityFramework_Library.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\simsi\\Desktop\\EntityFramework_Library\\EntityFramework_Library\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\ninag\\OneDrive - HTL Krems\\4BHITM\\SEW\\EF_View\\EntityFramework_Library_UE2\\EntityFramework_Library\\wwwroot\\app.css",
       "SourceId": "EntityFramework_Library",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\simsi\\Desktop\\EntityFramework_Library\\EntityFramework_Library\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ninag\\OneDrive - HTL Krems\\4BHITM\\SEW\\EF_View\\EntityFramework_Library_UE2\\EntityFramework_Library\\wwwroot\\",
       "BasePath": "_content/EntityFramework_Library",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\simsi\\Desktop\\EntityFramework_Library\\EntityFramework_Library\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ninag\\OneDrive - HTL Krems\\4BHITM\\SEW\\EF_View\\EntityFramework_Library_UE2\\EntityFramework_Library\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "EntityFramework_Library",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\simsi\\Desktop\\EntityFramework_Library\\EntityFramework_Library\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ninag\\OneDrive - HTL Krems\\4BHITM\\SEW\\EF_View\\EntityFramework_Library_UE2\\EntityFramework_Library\\wwwroot\\",
       "BasePath": "_content/EntityFramework_Library",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\simsi\\Desktop\\EntityFramework_Library\\EntityFramework_Library\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\ninag\\OneDrive - HTL Krems\\4BHITM\\SEW\\EF_View\\EntityFramework_Library_UE2\\EntityFramework_Library\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "EntityFramework_Library",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\simsi\\Desktop\\EntityFramework_Library\\EntityFramework_Library\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ninag\\OneDrive - HTL Krems\\4BHITM\\SEW\\EF_View\\EntityFramework_Library_UE2\\EntityFramework_Library\\wwwroot\\",
       "BasePath": "_content/EntityFramework_Library",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\simsi\\Desktop\\EntityFramework_Library\\EntityFramework_Library\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\ninag\\OneDrive - HTL Krems\\4BHITM\\SEW\\EF_View\\EntityFramework_Library_UE2\\EntityFramework_Library\\wwwroot\\favicon.png",
       "SourceId": "EntityFramework_Library",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\simsi\\Desktop\\EntityFramework_Library\\EntityFramework_Library\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ninag\\OneDrive - HTL Krems\\4BHITM\\SEW\\EF_View\\EntityFramework_Library_UE2\\EntityFramework_Library\\wwwroot\\",
       "BasePath": "_content/EntityFramework_Library",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
