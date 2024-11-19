@@ -9,14 +9,10 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+builder.Services.AddDbContextFactory<LibraryContext>(
+    options => options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
+        new MySqlServerVersion(new Version(8, 0, 0))));
 
-builder.Services.AddDbContext<LibraryContext>(options =>
-{
-    options.UseSqlite("Data Source=library.db", sqlOptions =>
-    {
-        sqlOptions.MigrationsAssembly(assembly.FullName);
-    });
-});
 
 var app = builder.Build();
 
